@@ -1,3 +1,17 @@
+"Database Testing&Data Validation Suite"
+
+What is tested 
+.Order data validation
+.Payment records verfication
+.Inventory updates validation
+.Data integrity
+
+Business Value
+.Prevents data corruption
+.Ensures financial accuracy
+.Validates backend transactions
+
+
 # ecommerce-sql-testing
 # 🛒 E-Commerce SQL Testing Project
 
