@@ -46,3 +46,11 @@ This project demonstrates SQL skills for database testing in an E-commerce syste
 ## 👨‍💻 Author
 Gudepu Srinivas  
 GitHub: https://github.com/gudepusrinivas555-sudo
+
+Need Automation for your project?
+I provide:
+. Selenium automation
+. API testing
+. CI/CD consulting
+
+Contact me on linkedIn/ Email
